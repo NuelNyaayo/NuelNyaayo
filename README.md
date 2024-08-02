@@ -1,6 +1,6 @@
 [![masterhead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://user-images.githubusercontent.com)
 <h1 align="center">Hi 👋, I'm Manuel Nyaayo</h1>
-<h3 align="center">A passionate fullstack developer from Africa, Kenya</h3>
+<h3 align="center">A passionate fullstack developer from Kenya, Africa. </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuelnyaayo&label=Profile%20views&color=0e75b6&style=flat" alt="nuelnyaayo" /> </p>
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Django,React**
 
-- 💬 Ask me about **Html,Css ,Javascript**
+- 💬 Ask me about **Html, Css ,Javascript ,Django.**
 
-- 📫 How to reach me **manuelnyaayo@gmail.com**
+- 📫 How to reach me **+254701028287**
 
 - ⚡ Fun fact **I am a fun person to work with.**
 
