@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Django, React**
 - 💬 Ask me about **HTML, CSS, JavaScript, Django**
-- 📫 Reach me at **+254701028287**
+- 📫 Reach me at **+254790693909**
 - ⚡ Fun fact: **I am a fun person to work with!**
 
 ---
