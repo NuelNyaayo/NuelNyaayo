@@ -89,7 +89,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nuelnyaayo&show_icons=true&locale=en" alt="nuelnyaayo" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuelnyaayo" alt="nuelnyaayo" />
 </p>
